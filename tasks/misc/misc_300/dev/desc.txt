@@ -1,0 +1,6 @@
+0 1 in text
+decode bin -> get link to pastebin (https://pastebin.com/c7jm4tR7)
+
+pastebin ZF enc of link to other pastebin - https://pastebin.com/BtvQhrTR
+
+hts/psei.o/tQrRtp:/atbncmBvhT

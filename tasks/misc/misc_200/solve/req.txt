@@ -1,0 +1,4 @@
+apt-get install zbar-tools
+apt-get install libzbar-dev
+
+# нужно чтобы был бинарь zbarimg

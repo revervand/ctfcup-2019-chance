@@ -1,0 +1,4 @@
+Банальное задание на брут пароля к архиву.
+
+fcrackzip -u -p -D /usr/share/wordlists/rockyou.txt encrypted.zip 
+

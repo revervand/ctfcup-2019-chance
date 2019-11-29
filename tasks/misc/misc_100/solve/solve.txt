@@ -1,0 +1,4 @@
+Brainfuck -> JS fuck -> Malbolge
+
+Самый крутой вариант юзать вот этот сайт - http://bf.doleczek.pl/
+Он сразу декоднет и JS fuck и отдаст Malbolge

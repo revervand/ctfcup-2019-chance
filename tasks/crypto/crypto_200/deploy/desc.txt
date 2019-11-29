@@ -1,0 +1,7 @@
+Отдать команде скрипт и файл.
+
+На всякий случай
+
+Python 2.7.10 (default, Aug 17 2018, 19:45:58)
+[GCC 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.0.42)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
