@@ -1,0 +1,4 @@
+Внешне похоже на dvorak
+Находим декодер в интернете и всё
+
+http://wbic16.xedoloh.com/dvorak.html
