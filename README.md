@@ -21,6 +21,8 @@
 
 ## Информация
 
+Проверяющая система — Patched CTFd
+
 Руководитель проекта — [Дарья Логинова](https://github.com/deviantwish)
 
 Разработчик этапа — [Георгий Кигурадзе](https://github.com/revervand)
