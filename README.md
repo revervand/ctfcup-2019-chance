@@ -27,8 +27,6 @@
 
 Разработчик этапа — [Георгий Кигурадзе](https://github.com/revervand)
 
-Оформление репозитория - [Владимир Черепанов](https://github.com/keltecc)
-
 Лицензия — [MIT](LICENSE)
 
 
