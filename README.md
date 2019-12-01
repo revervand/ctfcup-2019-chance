@@ -21,7 +21,7 @@
 
 ## Информация
 
-Проверяющая система — Patched CTFd
+Проверяющая система — Patched [CTFd](https://github.com/CTFd/CTFd/)
 
 Руководитель проекта — [Дарья Логинова](https://github.com/deviantwish)
 
