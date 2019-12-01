@@ -50,10 +50,10 @@
 | Pwn | 100 | [**Online Casino 'Arbalest'**](tasks/pwn/pwn_100) |
 | Pwn | 200 | [**Private Casino Panel**](tasks/pwn/pwn_200) |
 | Pwn | 300 | [**Ultimate Slot Machine**](tasks/pwn/pwn_300) |
-| Reverse | 100 | [**Activation Code**](tasks/reverse/reverse_100) |
-| Reverse | 200 | [**Valid Key**](tasks/reverse/reverse_200) |
-| Reverse | 300 | [**Check My Flag**](tasks/reverse/reverse_300) |
-| Reverse | 400 | [**Unsolvable**](tasks/reverse/reverse_400) |
+| Reverse | 100 | [**Activation Code**](tasks/reverse/rev_100) |
+| Reverse | 200 | [**Valid Key**](tasks/reverse/rev_200) |
+| Reverse | 300 | [**Check My Flag**](tasks/reverse/rev_300) |
+| Reverse | 400 | [**Unsolvable**](tasks/reverse/rev_400) |
 | Web | 100 | [**Casino Panel**](tasks/web/web_100) |
 | Web | 200 | [**Casino Admin Panel**](tasks/web/web_200) |
 | Web | 300 | [**Baby keltecc**](tasks/web/web_300) |
