@@ -57,3 +57,8 @@
 | Web | 100 | [**Casino Panel**](tasks/crypto/web_100) |
 | Web | 200 | [**Casino Admin Panel**](tasks/crypto/web_200) |
 | Web | 300 | [**Baby keltecc**](tasks/crypto/web_300) |
+
+
+## Разборы
+
+Разбор каждого таска находится в папке `solve` в директории таска. 
