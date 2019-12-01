@@ -21,8 +21,6 @@
 
 ## Информация
 
-Проверяющая система — [Patched CTFd](https://github.com/revervand/CTFd-Chance/)
-
 Руководитель проекта — [Дарья Логинова](https://github.com/deviantwish)
 
 Разработчик этапа — [Георгий Кигурадзе](https://github.com/revervand)
